@@ -1,0 +1,25 @@
+div{
+
+	width: 20%; /*Segunda parte*/ 
+	height: 100px;
+ 	padding: 10px 0px  0px 5px;
+ 	margin-bottom: 10px;
+
+ 	/*3era parte*/
+ 	/*display: inline-block;*/
+ 	margin-right: 10px;
+
+ 	/*4ta parte*/ 	
+ 	display: inline 
+}
+
+.bandera-amarilla{
+	background-color: #F7B617;
+
+}
+
+.bandera-gris{
+	background-color: #2B2B2B;
+	color: #FFF;
+} <!-- Segunda parte -->
+
